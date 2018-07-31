@@ -1,0 +1,28 @@
+#main{
+
+  width:50%;
+  position: absolute;
+  top: 30%;
+  left: 25%;
+  background: rgba(0,0,250,0.15);
+}
+form{
+  display: flex;
+
+}
+input{
+  background-color: transparent;
+  color:white;
+  border:none;
+  height:50px;
+  width:95%;
+  font-size:30px;
+  padding-left: 10px;
+}
+::placeholder{
+  background-color: transparent;
+  color:white;
+}
+svg{
+  height:40px;
+}

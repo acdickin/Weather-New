@@ -1,0 +1,40 @@
+#Weather{
+  display: flex;
+  flex-flow: row wrap;
+  color:white;
+}
+#today{
+  width:100%;
+}
+.day{
+  width:16.66666666%;
+  background:white;
+  color:black;
+  text-align: center;
+}
+#today-temp{
+  font-size:100px;
+  float: left;
+  margin-left: 30%;
+
+}
+#today-other{
+  font-size: 16px;
+  text-align: left;
+  padding-top: 20px;
+
+}
+
+#line-break {
+  width: 100%;
+}
+#temp{
+  font-size:30px;
+}
+img{
+  width:30px;
+}
+h1{
+  color:white;
+  text-align:center;
+}
